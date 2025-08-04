@@ -40,6 +40,5 @@ int main() {
     	            cout << static_cast<char> (i+65);
     	        }
     	    }
-    	}
 	}
 }
