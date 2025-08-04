@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
+    	ios_base::sync_with_stdio(0);
+    	cin.tie(0);
 	string str; cin >> str;
 	int a[26];
 	memset(a,0,sizeof(a));
