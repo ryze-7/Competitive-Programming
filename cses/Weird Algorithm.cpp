@@ -11,4 +11,4 @@ int main() {
         else n/=2;
     }
     cout << n;
-
+}
